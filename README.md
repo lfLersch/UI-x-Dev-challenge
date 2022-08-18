@@ -1,16 +1,6 @@
-# uichallenge
+# UI X DEV Challenge
 
-A new Flutter project.
+Desafio criado a partir de um meme do LinkedIn/TikTok a respeito da relação UI/DEV.
 
-## Getting Started
+As animações foram feitas utilizando os plugins **carousel_slider**(aniamção de *side* *swap*), **flutter_polygon**(para o desenho do polígono) e componentes nativos; **Path** para a trajetória das imagens e **Animation** tanto para a rotação do polígono quanto para a translação dos objetos.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
